@@ -1,1 +1,7 @@
-# AI_Based_Aadhar_fraud_detection
+# AI-Based-Fraud-Management-System-for-UID-Aadhaar
+
+
+
+**Run Using Following Command**
+
+`streamlit run app_interface.py`

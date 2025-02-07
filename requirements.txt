@@ -1,0 +1,7 @@
+pandas
+nltk
+fuzzywuzzy
+ultralytics
+easyocr
+opencv-python
+streamlit
